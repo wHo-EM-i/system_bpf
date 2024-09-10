@@ -46,6 +46,7 @@
 
 #include <android-base/cmsg.h>
 #include <android-base/file.h>
+#include <android-base/properties.h>
 #include <android-base/strings.h>
 #include <android-base/unique_fd.h>
 
